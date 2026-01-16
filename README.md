@@ -28,7 +28,7 @@ This project explores clinical patient data to validate the non-invasive staging
 
 ### 3. Inferential Statistics
 * **Hypothesis Testing:** Conducted ANOVA for normally distributed variables and Kruskal-Wallis tests for skewed variables.
-* **Post-Hoc Analysis:** Used TukeyHSD and Dunn Tests to pinpoint significant differences between specific disease stages.
+* **Post-Hoc Analysis:** Used Tukey and Dunn Tests to pinpoint significant differences between specific disease stages.
 * **Findings:** All biomarkers except CREA showed statistically significant differences across categories.
 
 ### 4. Clustering & Correlation
