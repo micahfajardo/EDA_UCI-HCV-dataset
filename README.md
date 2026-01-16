@@ -9,6 +9,11 @@ This project explores clinical patient data to validate the non-invasive staging
 * **Composition:** 526 healthy controls and 56 confirmed HCV patients across three stages.
 * **Features:** 11 clinical features (biochemical markers) and 2 demographic features (Age, Sex).
 
+### 🛠 Tools Used
+* **Language:** Python/R
+* **Libraries:** Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn
+* **Statistical Tests:** ANOVA, Kruskal-Wallis, TukeyHSD, Dunn Test, K-Means
+
 ## 🛠️ Statistical & Technical Methodology
 
 ### 1. Data Cleaning & Preprocessing
@@ -39,8 +44,3 @@ This project explores clinical patient data to validate the non-invasive staging
 * **Recommendation:** Future predictive models should utilize **SMOTE or oversampling techniques** to address the 90.4% class imbalance and employ **non-parametric machine learning algorithms** (like Random Forests) to better handle the skewed distributions and clinical outliers identified in this study[cite: 33, 270, 271].
 * **Overall Finding:** This study statistically confirms that routine biochemical markers—particularly AST, GGT, and CHE—are robust indicators for distinguishing end-stage Cirrhosis from healthy states, though clinical imaging remains necessary for early-stage Hepatitis differentiation[cite: 91, 252].
 
----
-### 🛠 Tools Used
-* **Language:** Python/R
-* **Libraries:** Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn
-* **Statistical Tests:** ANOVA, Kruskal-Wallis, TukeyHSD, Dunn Test, K-Means
