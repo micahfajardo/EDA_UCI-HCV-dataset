@@ -1,4 +1,4 @@
-# HCV Patient Data Analysis: Liver Disease Progression Study
+# EDA HCV Patient Data Analysis
 
 ## 📋 Project Overview
 This project explores clinical patient data to validate the non-invasive staging of Hepatitis C Virus (HCV) related liver disease progression. By performing Exploratory Data Analysis (EDA) and inferential statistics, I identified the biochemical markers that characterize the transition from healthy states to Hepatitis, Fibrosis, and Cirrhosis.
