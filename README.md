@@ -41,6 +41,6 @@ This project explores clinical patient data to validate the non-invasive staging
 * **Data Challenges:** A substantial class imbalance (90.4% healthy) and the presence of severe outliers in the Cirrhosis category (specifically in CREA) limit the generalizability of standard mean-based comparisons.
 
 ## 📢 Recommendations & Conclusion
-* **Recommendation:** Future predictive models should utilize **SMOTE or oversampling techniques** to address the 90.4% class imbalance and employ **non-parametric machine learning algorithms** (like Random Forests) to better handle the skewed distributions and clinical outliers identified in this study[cite: 33, 270, 271].
-* **Overall Finding:** This study statistically confirms that routine biochemical markers—particularly AST, GGT, and CHE—are robust indicators for distinguishing end-stage Cirrhosis from healthy states, though clinical imaging remains necessary for early-stage Hepatitis differentiation[cite: 91, 252].
+* **Recommendation:** Future predictive models should utilize **SMOTE or oversampling techniques** to address the 90.4% class imbalance and employ **non-parametric machine learning algorithms** (like Random Forests) to better handle the skewed distributions and clinical outliers identified in this study.
+* **Overall Finding:** This study statistically confirms that routine biochemical markers—particularly AST, GGT, and CHE—are robust indicators for distinguishing end-stage Cirrhosis from healthy states, though clinical imaging remains necessary for early-stage Hepatitis differentiation
 
