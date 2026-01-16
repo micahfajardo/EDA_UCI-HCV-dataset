@@ -9,7 +9,7 @@ This project explores clinical patient data to validate the non-invasive staging
 * **Composition:** 526 healthy controls and 56 confirmed HCV patients across three stages.
 * **Features:** 11 clinical features (biochemical markers) and 2 demographic features (Age, Sex).
 
-### 🛠 Tools Used
+## 🛠 Tools Used
 * **Language:** Python/R
 * **Libraries:** Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn
 * **Statistical Tests:** ANOVA, Kruskal-Wallis, TukeyHSD, Dunn Test, K-Means
